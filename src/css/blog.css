@@ -1,7 +1,10 @@
+body{
+    background-color: rgba(126, 167, 206, 0.418);
+}
 .img{
     height: 100px;
 }
 .col-md-4{
     width: 500px;
-    box-shadow: 10px 5px 5px rgb(139, 139, 139);
+    box-shadow: 10px 5px 5px rgb(118, 158, 196);
 }
