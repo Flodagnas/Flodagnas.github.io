@@ -1,10 +1,16 @@
-body{
-    background-color: rgba(126, 167, 206, 0.418);
+h1{
+    text-align: center;
 }
 .img{
-    height: 100px;
+    width: 100%;
 }
 .col-md-4{
     width: 500px;
-    box-shadow: 10px 5px 5px rgb(118, 158, 196);
+    background-color: rgba(99, 154, 206, 0.7);
+    box-shadow: 10px 5px 5px rgb(99, 154, 206, 0.4);
+    margin-left: 5%;
+}
+.blog-table{
+    padding: 10px;
+    margin-bottom: 20px;
 }
