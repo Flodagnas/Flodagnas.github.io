@@ -6,6 +6,9 @@ body {
 		#031b21 no-repeat center fixed;
 	background-size: cover;
 }
+#CV{
+	text-align: center;
+}
 h1{
 	text-align: center;
 }
@@ -36,8 +39,8 @@ h1{
 	position: absolute;
 }
 .profile-card-wrap {
-	top: 48%;
-	left: 46%;
+	top: 39%;
+	left: 41%;
 	perspective: 1000px;
 	position: absolute;
 	margin-left: -250px;
@@ -46,8 +49,8 @@ h1{
 .profile-card-wrap .content {
 	top: 0%;
 	left: 7%;
-	width: 570px;
-	height: 340px;
+	width: 700px;
+	height: 500px;
 	padding: 30px;
 	position: relative;
 	backface-visibility: hidden;
@@ -82,7 +85,7 @@ h1{
 }
 .profile-card-wrap .content p {
 	margin: 0;
-	max-width: 190px;
+	max-width: 230px;
 	line-height: 24px;
 	text-align: center;
 }
@@ -177,9 +180,9 @@ h1{
 	display: none;
 }
 .profile-card-wrap .toggle {
-	top: 115%;
+	top: 82%;
 	z-index: 5;
-	right: 27.5%;
+	right: 25%;
 	width: 40px;
 	height: 40px;
 
@@ -221,6 +224,7 @@ h1{
 	+ .link-info
 	.link:nth-child(1) {
 	transform: translate(90px, -120px);
+	
 }
 .profile-card-wrap
 	.check:checked
