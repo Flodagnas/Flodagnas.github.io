@@ -3,6 +3,17 @@ h1{
     margin-bottom:50px;
     margin-top:50px;
 }
+.container{
+    content: "";
+    display: table;
+    clear: both;
+}
+.container div {
+    float: left;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: auto;
+}
 a {
     font-family: Roboto;
 }
@@ -12,7 +23,7 @@ a {
 .blog-card {
     display: inline-block;
     position: relative;
-    width: 33%;
+    width: 20%;
     height: 70%;
     margin-bottom: 30px;
     border-radius: 6px;
@@ -21,8 +32,8 @@ a {
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
 }
 .blog-card .blog-card-image {
-    height: 70%;
-    width: 70%;
+    height: 50%;
+    width: 90%;
     position: relative;
     overflow: hidden;
     margin-left: 15px;
@@ -33,7 +44,7 @@ a {
 }
 .blog-card .blog-card-image img {
     width: 100%;
-    height: auto;
+    height: 100%;
     border-radius: 6px;
     pointer-events: none;
 }
