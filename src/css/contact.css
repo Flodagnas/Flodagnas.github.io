@@ -1,3 +1,6 @@
+body{
+    font-family: 'segoe ui';
+}
 h1{
     text-align:center;
     margin-bottom:50px;
@@ -15,9 +18,6 @@ h2{
     margin-top: 2%;
     margin-left: 8%;
     margin-right: auto;
-}
-a {
-    font-family: Roboto;
 }
 .blog-card-blog {
     margin-top: 30px;
@@ -68,7 +68,6 @@ a {
 }
 .blog-card-caption {
     font-weight: 700;
-    font-family: "Roboto Slab", "Times New Roman", serif;
 }
 .fa {
     display: inline-block;
