@@ -4,8 +4,11 @@ h1{
 .img{
     width: 100%;
 }
+.row div {
+    float: left;
+}
 .col-md-4{
-    width: 500px;
+    width: 450px;
     background-color: rgba(99, 154, 206, 0.7);
     box-shadow: 10px 5px 5px rgb(99, 154, 206, 0.4);
     margin-left: 5%;
