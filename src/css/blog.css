@@ -5,7 +5,7 @@ h1{
     text-align: center;
 }
 .img{
-    width: 100%;
+    max-width: 100%;
 }
 .row div {
     float: left;
@@ -17,6 +17,6 @@ h1{
     margin-left: 5%;
 }
 .blog-table{
-    padding: 10px;
+    padding: 2%;
     margin-bottom: 20px;
 }
