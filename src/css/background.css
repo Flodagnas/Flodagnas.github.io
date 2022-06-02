@@ -8,10 +8,10 @@ body {
 	font-family: 'segoe ui';
 }
 p{
-	font-weight: 400;
+	font-weight: 500;
 }
 #CV{
-	text-align: center;
+	align-items: center;
 }
 h1{
 	text-align: center;
