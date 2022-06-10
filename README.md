@@ -1,1 +1,4 @@
 # Stage fin d'année Bachelor 2 Florian DAGNAS
+Blog pour informer sur l'avancer de mon stage de fin d'nnée de B2 au Campus Ynov Nantes.
+
+Mis a jour régulièrement jusqu'au rendu du blog
