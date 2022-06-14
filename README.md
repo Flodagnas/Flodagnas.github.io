@@ -2,4 +2,4 @@
 
 Blog pour informer sur l'avancer de mon stage de fin d'année de B2 au Campus Ynov Nantes.
 
-Mis a jour régulièrement jusqu'au rendu du blog.
+Mise à jour régulière jusqu'au rendu du blog.
