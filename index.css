@@ -6,28 +6,36 @@
   text-align: center;
 }
 
-#context{
+#boxe{
+  width: auto;
+  display: block;
+  margin-bottom: 15%;
+}
+
+#contexte{
   float: left;
   margin-left: 1%;
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 #entreprise{
   margin: 0 auto;
   margin-bottom: 5%;
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 #fin{
   float: right;
   margin-right: 1%;
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 .infos {
-  background-color: rgba(255, 255, 255, 0.3);
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 1px;
   margin-bottom: 5%;
-  width: 70%;
+  width: 60%;
   padding-bottom: 5px;
   text-align: center;
 }

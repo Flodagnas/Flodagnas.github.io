@@ -1,0 +1,20 @@
+#contcalendar {
+    width: 230px;
+    background-color: #2ea1ee;
+    -webkit-box-shadow: 10px 10px 10px #808080;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#808080, direction=120, strength=5);
+    box-shadow: 8px 8px 8px #868686;
+    border-radius: 10px;
+    float: right;
+    margin-right: 2%;
+}
+
+#contcalendar table {
+    margin: auto;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 20px;
+    text-shadow: 10px 10px 10px #232711;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#333333, direction=120, strength=7);
+}
