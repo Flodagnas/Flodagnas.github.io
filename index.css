@@ -7,6 +7,10 @@
   color: rgb(31, 31, 31);
 }
 
+#home{
+  position: relative;
+}
+
 #boxe{
   width: auto;
   display: block;
@@ -56,6 +60,7 @@ body {
   width: 100%;
   background-color: #47474793;
   position: fixed;
+  z-index: 1;
 }
 
 .nav>.nav-header {

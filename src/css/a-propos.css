@@ -1,5 +1,6 @@
 .profile-card-wrap p{
     color: black;
+    position: relative;
 }
 
 .profile-card-wrap .content{

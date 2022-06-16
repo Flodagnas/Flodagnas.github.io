@@ -15,6 +15,7 @@ h2 {
     content: "";
     display: table;
     clear: both;
+    position: relative;
 }
 
 .container div {
