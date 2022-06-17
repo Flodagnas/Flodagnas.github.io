@@ -7,6 +7,18 @@
   color: rgb(31, 31, 31);
 }
 
+#rôle{
+  width: 100%;
+}
+
+.img-home{
+  width: 100%;
+}
+
+#equipe{
+  width: 90%;
+}
+
 #home{
   position: relative;
 }
@@ -46,8 +58,7 @@
 }
 
 #image {
-  max-width: 100%;
-  height: auto;
+  width: 100%;
 }
 
 body {
