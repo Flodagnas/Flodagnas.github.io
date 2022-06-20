@@ -1,6 +1,6 @@
 function calendar() {
 
-    var NomMois= ['Jan','Fev','Mar','Avr','Mai','Jui','Juil','Aou','Sep','Oct','Nov','Dec'];
+    var NomMois= ['Janvier','Fevrier','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Decembre'];
     var NomJours= ['Lun','Mar','Mer','Jeu','Ven','Sam','Dim'];
     var NumJours= [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
     var today= new Date();
@@ -25,7 +25,7 @@ function calendar() {
 
     var tbh= document.createElement("th");
     tbh.setAttribute('colspan','7');
-    var tbhtxt= document.createTextNode(NomMois[today.getMonth()+1]+'.'+year);
+    var tbhtxt= document.createTextNode(NomMois[today.getMonth()+1]+' '+year);
     tbh.appendChild(tbhtxt);
 
     tbr.appendChild(tbh);
