@@ -1,7 +1,7 @@
 function calendar() {
 
     var NomMois= ['Janvier','Fevrier','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Decembre'];
-    var NomJours= ['Lun','Mar','Mer','Jeu','Ven','Sam','Dim'];
+    var NomJours= ['Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi','Dimanche'];
     var NumJours= [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
     var today= new Date();
     var thisDay= today.getDate();
