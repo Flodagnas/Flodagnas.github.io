@@ -1,10 +1,12 @@
 .profile-card-wrap p{
     color: black;
     position: relative;
+    overscroll-behavior: auto;
 }
 
 .profile-card-wrap .content{
     color: black;
+    overscroll-behavior: auto;
 }
 
 .title{
