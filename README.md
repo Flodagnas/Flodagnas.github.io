@@ -8,7 +8,7 @@ Mise à jour régulière jusqu'au rendu du blog.
 
 ## Page Home/Index
 -Contiens le contexte du blog       
--Développement de l'équipe dans l'entrprise où je suis en stage     
+-Développement de l'équipe dans l'entreprise où je suis en stage     
 -Bilan/Ressentie sur le stage       
 
 ## Page A-Propos
